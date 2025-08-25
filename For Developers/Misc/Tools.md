@@ -9,6 +9,8 @@
 - [Gradient Generator](https://colordesigner.io/gradient-generator)
 - [UiGradients](https://uigradients.com/#EveningSunshine)
 
+# How To Make Mods
+- [Pubert's BNM Video](https://www.youtube.com/watch?v=1BTfqH307Nw&feature=youtu.be)
 
 
 
