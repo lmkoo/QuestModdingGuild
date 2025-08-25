@@ -5,9 +5,10 @@
 # Runtime Dumper
 - [LivkuDumper](https://github.com/Livku2/LivkuDumper)
 
-# Cool Gradients
+# Cool Gradients For Ur Menus
 - [Gradient Generator](https://colordesigner.io/gradient-generator)
 - [UiGradients](https://uigradients.com/#EveningSunshine)
+
 
 
 
