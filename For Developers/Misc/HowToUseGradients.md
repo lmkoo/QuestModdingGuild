@@ -7,5 +7,6 @@
 ```markdown
 Im going to send hex codes then a text, when i send the text use HTML color tags for every letter of the text like <color= ></color> and put them all in one line
 ```
+- Then send the hex code then the text you want 
 
 Old method from 2023 by Glitched Da Kitty Cat :sob:
