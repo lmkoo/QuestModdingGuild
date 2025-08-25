@@ -6,8 +6,9 @@
 - [LivkuDumper](https://github.com/Livku2/LivkuDumper)
 
 # Cool Gradients
-- https://colordesigner.io/gradient-generator
-- https://uigradients.com/#EveningSunshine
+- [Gradient Generator](https://colordesigner.io/gradient-generator)
+- [UiGradients](https://uigradients.com/#EveningSunshine)
+
 
 
 
