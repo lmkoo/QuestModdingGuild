@@ -47,7 +47,7 @@ And most of the time is that they didn't change the target unity version for the
 - Then it will tell you the Unity version
 - Now go back to your menu
 - Open "Extern/BNM-Android/Include.BNM/UserSettings/GlobalSettings.hpp"
-- Uncomment the game’s Unity version and comment out the other version.
+- Uncomment the game’s Unity version and comment out the other versions.
 
 ### `Example:`
 ```cpp
