@@ -42,7 +42,7 @@ And most of the time is that they didn't change the target unity version for the
 
 # How To
 
-- Dump the game
+- Decompile the game
 - Open data.unity3d or globalgamemanagers in notepad
 - Then it will tell you the Unity version
 - Now go back to your menu
@@ -62,5 +62,24 @@ Commenting a line means adding // at the beginning.
 Uncommenting removes //.
 
 ---
+# 'Injecting' the lib
 
+### `How To:`
+```java
+const-string v0, "libname"
+
+invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
+```
+- Copy the text above 
+- Change 'libname' to your .so name (Do not include the 'lib' at the start of the lib, only the project name)
+- Decompile the game, open the decompile game folder
+- Go to "smali/com/unity3d/player" then open "UnityPlayerActivity.smali" in a text editor
+- Do "ctrl + f" then search up onCreate
+- Under .locals 2 paste the text with your lib name
+
+Should Look Like This
+
+<img src="https://kawaiifiles.vercel.app/images/stupidfuckingexample.png" width="80%">
+
+---
 If I got anything wrong dm me :sunglasses:
