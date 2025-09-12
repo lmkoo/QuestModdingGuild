@@ -10,3 +10,4 @@
 - Download [Unity XR GUI Temp](https://github.com/lmkoo/BNM-UnityXRGUITemplate)
 - Then drag n' drop the folder into the "Include" folder and do what the README.md says.
 - For mods you gotta figure out that urself 😿
+# IF YOU NEED HELP WITH ANYTHING ASK IN "KAWAII" DISCORD OR OPEN "ExplainingShit.md"
